@@ -4,6 +4,7 @@
 ## AIM: 
 
  To perform Linear and Circular Convolution for two given sequence using SCILAB. 
+ 
 
 ## APPARATUS REQUIRED: 
 PC installed with SCILAB. 
